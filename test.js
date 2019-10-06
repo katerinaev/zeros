@@ -9,6 +9,7 @@ it('should calculate the number of zeros 3', () => {
   assert.equal(zeros('9!!*10!!*7!!'), 3);
 });
 
+
 it('should calculate the number of zeros 11', () => {
   assert.equal(zeros('90!!*10!!'), 11);
 });
